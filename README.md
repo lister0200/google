@@ -11,7 +11,7 @@ HTML, CSS
 
 ## Authors
 
-- [@lister0200](https://github.com/lister0200)
+- [@lister488](https://github.com/lister0200)
 
 
 ## Clone the project
