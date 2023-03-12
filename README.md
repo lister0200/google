@@ -11,7 +11,7 @@ HTML, CSS
 
 ## Authors
 
-- [@lister488](https://twitter.com/lister_0200)
+- [@lister_0200](https://twitter.com/lister_0200)
 
 
 ## Clone the project
