@@ -11,7 +11,7 @@ HTML, CSS
 
 ## Authors
 
-- [@lister488](https://twitter.com/lister_0200)
+- [@lister0200](https://github.com/lister0200)
 
 
 ## Clone the project
@@ -24,5 +24,5 @@ HTML, CSS
 
 ## 🔗 Links
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lister488)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lister_0200)
 
